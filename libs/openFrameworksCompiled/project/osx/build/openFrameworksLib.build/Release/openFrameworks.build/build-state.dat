@@ -1,25 +1,25 @@
 TopenFrameworks
 v7
 r0
-t346107453.080998
+t346108251.529357
 cCheck dependencies
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofArduino.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSerial.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofGraphics.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofImage.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTexture.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofMath.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofUtils.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofQtUtils.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cLibtool /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a normal i386
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofArduino.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSerial.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofGraphics.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofImage.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTexture.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofMath.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofUtils.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofQtUtils.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLibtool /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a normal i386
 
 N/Developer/SDKs/MacOSX10.6.sdk
 c000000004CAA740B00000000000000EE
@@ -1298,9 +1298,1081 @@ i<exception>
 i<iostream>
 i<string>
 
+N/users/stan/Documents/workspace/SmileFile/libs/fmodex/include/fmod.h
+c000000004B6836DC0000000000028E63
+t1265120988
+s167523
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/fmodex/include/fmod_codec.h
+c000000004B38A4A8000000000000334A
+t1262003368
+s13130
+
+N/users/stan/Documents/workspace/SmileFile/libs/fmodex/include/fmod_dsp.h
+c000000004B38A4A8000000000000892F
+t1262003368
+s35119
+
+N/users/stan/Documents/workspace/SmileFile/libs/fmodex/include/fmod_memoryinfo.h
+c000000004B38A4A80000000000003C95
+t1262003368
+s15509
+
+N/users/stan/Documents/workspace/SmileFile/libs/freetype/include/freetype2/freetype/config/ftheader.h
+c000000004B38A4A80000000000005B39
+t1262003368
+s23353
+
+N/users/stan/Documents/workspace/SmileFile/libs/freetype/include/freetype2/freetype/freetype.h
+c000000004B38A4A80000000000032885
+t1262003368
+s206981
+i<ft2build.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/freetype/include/freetype2/freetype/ftglyph.h
+c000000004B38A4A80000000000008DCF
+t1262003368
+s36303
+i<ft2build.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/freetype/include/freetype2/freetype/ftoutln.h
+c000000004B38A4A80000000000007B3C
+t1262003368
+s31548
+i<ft2build.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/freetype/include/freetype2/freetype/fttrigon.h
+c000000004B38A4A800000000000020FB
+t1262003368
+s8443
+
+N/users/stan/Documents/workspace/SmileFile/libs/freetype/include/ft2build.h
+c000000004B38A4A80000000000000F32
+t1262003368
+s3890
+i<freetype/config/ftheader.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004B38A4A80000000000000446
+t1262003368
+s1094
+i"ofTypes.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004B38A4A8000000000000066C
+t1262003368
+s1644
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"glut.h"
+i<GLUT/glut.h>
+i<GL/glut.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/app/ofAppRunner.h
+c000000004B38A4A8000000000000050D
+t1262003368
+s1293
+i"ofMain.h"
+i"ofBaseApp.h"
+i"ofAppBaseWindow.h"
+i"ofAppGlutWindow.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/app/ofBaseApp.h
+c000000004B38A4A80000000000000375
+t1262003368
+s885
+i"ofTypes.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/communication/ofArduino.h
+c000000004B38A4A80000000000003D3C
+t1262003368
+s15676
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/communication/ofSerial.h
+c000000004B38A4A80000000000000D2E
+t1262003368
+s3374
+i"ofConstants.h"
+i<termios.h>
+i<sys/ioctl.h>
+i<getopt.h>
+i<dirent.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<fcntl.h>
+i<errno.h>
+i<ctype.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/events/ofEventUtils.h
+c000000004B38A4A80000000000000A8A
+t1262003368
+s2698
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/graphics/ofBitmapFont.h
+c000000004B38A4A8000000000000018C
+t1262003368
+s396
+i"ofConstants.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/graphics/ofGraphics.h
+c000000004B38A4A80000000000000B73
+t1262003368
+s2931
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/graphics/ofImage.h
+c000000004B38A4A80000000000000C9F
+t1262003368
+s3231
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"FreeImage.h"
+i"ofUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/graphics/ofTexture.h
+c000000004B38A4A80000000000000B5A
+t1262003368
+s2906
+i"ofConstants.h"
+i"ofGraphics.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004B38A4A8000000000000087A
+t1262003368
+s2170
+i"ofConstants.h"
+i"ofGraphics.h"
+i"ofUtils.h"
+i"ofTypes.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004B38A4A800000000000006C3
+t1262003368
+s1731
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/sound/ofSoundStream.h
+c000000004B38A4A80000000000000254
+t1262003368
+s596
+i"ofConstants.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofMath.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/utils/ofConstants.h
+c000000004B38A4A80000000000002AA0
+t1262003368
+s10912
+i<TargetConditionals.h>
+i<windows.h>
+i"GLee.h"
+i"glu.h"
+i<unistd.h>
+i"GLee.h"
+i<OpenGL/glu.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i"GLee.h"
+i<GL/glu.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<stdio.h>
+i<stdarg.h>
+i<math.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+i<iostream>
+i<vector>
+i<string>
+i<sstream>
+i<iomanip>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/utils/ofMath.h
+c000000004B38A4A800000000000006DB
+t1262003368
+s1755
+i"ofConstants.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/utils/ofNoise.h
+c000000004B38A4A80000000000004F24
+t1262003368
+s20260
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/utils/ofUtils.h
+c000000004B38A4A800000000000005A4
+t1262003368
+s1444
+i"ofConstants.h"
+i<shellapi.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/video/ofGstUtils.h
+c000000004B38A4A80000000000000B42
+t1262003368
+s2882
+i<gst/gst.h>
+i<pthread.h>
+i"ofConstants.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/video/ofQtUtils.h
+c000000004B38A4A800000000000006CF
+t1262003368
+s1743
+i"ofConstants.h"
+i"ofGraphics.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/video/ofUCUtils.h
+c000000004B38A4A800000000000004A7
+t1262003368
+s1191
+i"ofConstants.h"
+i<stdio.h>
+i<stdlib.h>
+i<unistd.h>
+i<unicap.h>
+i<unistd.h>
+i<string.h>
+i<pthread.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004B38A4A80000000000000C9C
+t1262003368
+s3228
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofTypes.h"
+i"ofQtUtils.h"
+i"videoInput.h"
+i"ofUCUtils.h"
+i"ofGstUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004B38A4A80000000000000BD3
+t1262003368
+s3027
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGstUtils.h"
+i"ofQtUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../FreeImage/include/FreeImage.h
+c000000004B38A4A6000000000000CC1B
+t1262003366
+s52251
+i<wchar.h>
+i<inttypes.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../fmodex/include/fmod.h
+c000000004B6836DC0000000000028E63
+t1265120988
+s167523
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../fmodex/include/fmod_errors.h
+c000000004B38A4A80000000000003408
+t1262003368
+s13320
+i"fmod.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../glee/include/GLee.h
+c000000004B38A4A80000000000090A87
+t1262003368
+s592519
+i<windows.h>
+i<GL/gl.h>
+i<OpenGL/gl.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<stddef.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp
+c000000004B8B16C000000000000045B8
+t1267406528
+s17848
+i"ofAppGlutWindow.h"
+i"ofBaseApp.h"
+i"ofMain.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp
+c000000004B38A4A800000000000017AA
+t1262003368
+s6058
+i"ofAppRunner.h"
+i"ofAppiPhoneWindow.h"
+i"ofAppGlutWindow.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.h
+c000000004B38A4A8000000000000050D
+t1262003368
+s1293
+i"ofMain.h"
+i"ofBaseApp.h"
+i"ofAppBaseWindow.h"
+i"ofAppGlutWindow.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp
+c000000004B38A4A80000000000004269
+t1262003368
+s17001
+i"ofArduino.h"
+i"ofUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.h
+c000000004B38A4A80000000000003D3C
+t1262003368
+s15676
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp
+c000000004B38A4A8000000000000478C
+t1262003368
+s18316
+i"ofSerial.h"
+i"ofMain.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.h
+c000000004B38A4A80000000000000D2E
+t1262003368
+s3374
+i"ofConstants.h"
+i<termios.h>
+i<sys/ioctl.h>
+i<getopt.h>
+i<dirent.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<fcntl.h>
+i<errno.h>
+i<ctype.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/events/ofEvents.h
+c000000004B38A4A800000000000007AF
+t1262003368
+s1967
+i"ofConstants.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp
+c000000004B38A4A80000000000009319
+t1262003368
+s37657
+i"ofBitmapFont.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp
+c000000004B38A4A80000000000007585
+t1262003368
+s30085
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"ofBitmapFont.h"
+i<OpenGL/glu.h>
+i"glu.h"
+i"GL/glu.h"
+i"glu.h"
+i<vector>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.h
+c000000004B38A4A80000000000000B73
+t1262003368
+s2931
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp
+c000000004B38A4A80000000000003F32
+t1262003368
+s16178
+i"ofImage.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.h
+c000000004B38A4A80000000000000C9F
+t1262003368
+s3231
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"FreeImage.h"
+i"ofUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp
+c000000004B38A4A80000000000003969
+t1262003368
+s14697
+i"ofTexture.h"
+i"ofUtils.h"
+i"ofAppRunner.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.h
+c000000004B38A4A80000000000000B5A
+t1262003368
+s2906
+i"ofConstants.h"
+i"ofGraphics.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+c000000004B76D0680000000000006D00
+t1266077800
+s27904
+i"ofTrueTypeFont.h"
+i<ft2build.h>
+i<freetype/freetype.h>
+i<freetype/ftglyph.h>
+i<freetype/ftoutln.h>
+i<freetype/fttrigon.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.h
+c000000004B38A4A8000000000000087A
+t1262003368
+s2170
+i"ofConstants.h"
+i"ofGraphics.h"
+i"ofUtils.h"
+i"ofTypes.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/ofMain.h
+c000000004B38A4A80000000000000347
+t1262003368
+s839
+i"ofConstants.h"
+i"ofMath.h"
+i"ofUtils.h"
+i"ofTypes.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofTexture.h"
+i"ofTrueTypeFont.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp
+c000000004B6837B6000000000000240C
+t1265121206
+s9228
+i"ofSoundPlayer.h"
+i"ofUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.h
+c000000004B38A4A800000000000006C3
+t1262003368
+s1731
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp
+c000000004B38A4A80000000000001402
+t1262003368
+s5122
+i"ofSoundStream.h"
+i"RtAudio.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.h
+c000000004B38A4A80000000000000254
+t1262003368
+s596
+i"ofConstants.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofMath.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofConstants.h
+c000000004B38A4A80000000000002AA0
+t1262003368
+s10912
+i<TargetConditionals.h>
+i<windows.h>
+i"GLee.h"
+i"glu.h"
+i<unistd.h>
+i"GLee.h"
+i<OpenGL/glu.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i"GLee.h"
+i<GL/glu.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<stdio.h>
+i<stdarg.h>
+i<math.h>
+i<time.h>
+i<stdlib.h>
+i<string.h>
+i<iostream>
+i<vector>
+i<string>
+i<sstream>
+i<iomanip>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp
+c000000004B38A4A800000000000013C6
+t1262003368
+s5062
+i"ofMath.h"
+i"ofAppRunner.h"
+i"float.h"
+i<sys/time.h>
+i"ofNoise.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.h
+c000000004B38A4A800000000000006DB
+t1262003368
+s1755
+i"ofConstants.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofTypes.h
+c000000004B38A4A80000000000001991
+t1262003368
+s6545
+i"ofConstants.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp
+c000000004B38A4A80000000000002629
+t1262003368
+s9769
+i"ofUtils.h"
+i"ofImage.h"
+i"sys/time.h"
+i<mmsystem.h>
+i<direct.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.h
+c000000004B38A4A800000000000005A4
+t1262003368
+s1444
+i"ofConstants.h"
+i<shellapi.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp
+c000000004B38A4A800000000000024FB
+t1262003368
+s9467
+i"ofQtUtils.h"
+i"ofUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp
+c000000004B38A4A80000000000007EA5
+t1262003368
+s32421
+i"ofVideoGrabber.h"
+i"ofUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.h
+c000000004B38A4A80000000000000C9C
+t1262003368
+s3228
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofTypes.h"
+i"ofQtUtils.h"
+i"videoInput.h"
+i"ofUCUtils.h"
+i"ofGstUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp
+c000000004B8178B000000000000065E6
+t1266776240
+s26086
+i"ofVideoPlayer.h"
+i"ofUtils.h"
+i<gst/video/video.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.h
+c000000004B38A4A80000000000000BD3
+t1262003368
+s3027
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGstUtils.h"
+i"ofQtUtils.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../rtAudio/include/RtAudio.h
+c000000004B38A4AC0000000000009B55
+t1262003372
+s39765
+i<string>
+i<vector>
+i"RtError.h"
+i<windows.h>
+i<process.h>
+i<pthread.h>
+i<sys/time.h>
+i<sstream>
+i<CoreAudio/AudioHardware.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a
+t1324415451
+s4595664
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
+t1324402993
+s755428
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppRunner.o
+t1324402994
+s915752
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofArduino.o
+t1324402997
+s771572
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o
+t1324402998
+s80504
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofGraphics.o
+t1324403000
+s195604
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofImage.o
+t1324403000
+s124584
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofMath.o
+t1324403007
+s87632
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofQtUtils.o
+t1324403009
+s63200
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSerial.o
+t1324402996
+s89288
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o
+t1324403004
+s85120
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundStream.o
+t1324403006
+s472116
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTexture.o
+t1324403003
+s83500
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o
+t1324403004
+s358784
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofUtils.o
+t1324403009
+s190976
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o
+t1324403011
+s127128
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o
+t1324403012
+s121172
+
+N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/openFrameworks.LinkFileList
+c000000004EF0F9DB0000000000000AEA
+t1324415451
+s2794
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/AbstractDelegate.h
+c000000004B38A4A80000000000000B2E
+t1262003368
+s2862
+i"Poco/Foundation.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/AbstractEvent.h
+c000000004B38A4A80000000000002C6A
+t1262003368
+s11370
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/ActiveMethod.h
+c000000004B38A4A80000000000001C64
+t1262003368
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/ActiveResult.h
+c000000004B38A4A80000000000002E66
+t1262003368
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/ActiveRunnable.h
+c000000004B38A4A80000000000001785
+t1262003368
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/ActiveStarter.h
+c000000004B38A4A80000000000000927
+t1262003368
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/AutoPtr.h
+c000000004B38A4A80000000000001E0C
+t1262003368
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Bugcheck.h
+c000000004B38A4A800000000000012FE
+t1262003368
+s4862
+i"Poco/Foundation.h"
+i<string>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/CompareFunctions.h
+c000000004B38A4A800000000000007EC
+t1262003368
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Config.h
+c000000004B38A4A800000000000008B5
+t1262003368
+s2229
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Delegate.h
+c000000004B38A4A80000000000001802
+t1262003368
+s6146
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Event.h
+c000000004B38A4A80000000000000E21
+t1262003368
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Event_POSIX.h
+c000000004B38A4A80000000000000A91
+t1262003368
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Event_WIN32.h
+c000000004B38A4A80000000000000947
+t1262003368
+s2375
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Exception.h
+c000000004B38A4A800000000000026AC
+t1262003368
+s9900
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Expire.h
+c000000004B38A4A80000000000000CF1
+t1262003368
+s3313
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/FIFOEvent.h
+c000000004B38A4A80000000000000AD4
+t1262003368
+s2772
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/FIFOStrategy.h
+c000000004B38A4A800000000000010F3
+t1262003368
+s4339
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Foundation.h
+c000000004B38A4A80000000000001023
+t1262003368
+s4131
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/FunctionDelegate.h
+c000000004B38A4A800000000000013CA
+t1262003368
+s5066
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Mutex.h
+c000000004B38A4A80000000000001A61
+t1262003368
+s6753
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004B38A4A80000000000000AC3
+t1262003368
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004B38A4A80000000000000A07
+t1262003368
+s2567
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/NotificationStrategy.h
+c000000004B38A4A80000000000000A37
+t1262003368
+s2615
+i"Poco/Foundation.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Platform.h
+c000000004B38A4A80000000000001A3A
+t1262003368
+s6714
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Platform_POSIX.h
+c000000004B38A4A80000000000000843
+t1262003368
+s2115
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Platform_VMS.h
+c000000004B38A4A80000000000000BAA
+t1262003368
+s2986
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Platform_WIN32.h
+c000000004B38A4A80000000000000D4D
+t1262003368
+s3405
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/RefCountedObject.h
+c000000004B38A4A80000000000000B10
+t1262003368
+s2832
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Runnable.h
+c000000004B38A4A80000000000000861
+t1262003368
+s2145
+i"Poco/Foundation.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/ScopedLock.h
+c000000004B38A4A800000000000008EB
+t1262003368
+s2283
+i"Poco/Foundation.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/SharedPtr.h
+c000000004B38A4A800000000000021DE
+t1262003368
+s8670
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Mutex.h"
+i<algorithm>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/SignalHandler.h
+c000000004B38A4A800000000000011EB
+t1262003368
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/SingletonHolder.h
+c000000004B38A4A80000000000000A64
+t1262003368
+s2660
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Thread.h
+c000000004B38A4A80000000000001C3A
+t1262003368
+s7226
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/ThreadPool.h
+c000000004B38A4A80000000000001849
+t1262003368
+s6217
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Thread_POSIX.h
+c000000004B38A4A800000000000012A8
+t1262003368
+s4776
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<sys/select.h>
+i<errno.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Thread_WIN32.h
+c000000004B38A4A8000000000000106C
+t1262003368
+s4204
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Timestamp.h
+c000000004B38A4A800000000000019A7
+t1262003368
+s6567
+i"Poco/Foundation.h"
+i<ctime>
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/Types.h
+c000000004B38A4A80000000000001910
+t1262003368
+s6416
+i"Poco/Foundation.h"
+
+N/users/stan/Documents/workspace/SmileFile/libs/poco/include/Poco/UnWindows.h
+c000000004B38A4A80000000000000FD1
+t1262003368
+s4049
+i<windows.h>
+
+N/users/stan/Documents/workspace/SmileFile/libs/rtAudio/include/RtError.h
+c000000004B38A4AC0000000000000846
+t1262003372
+s2118
+i<exception>
+i<iostream>
+i<string>
+
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies346107453#346107453#0(0"0(0#1#0"8637192384#0"0#
+lSLF07#2@18"Check dependencies346108251#346108251#0(0"0(0#1#0"29836824280170608#0"0#
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095787.791590
@@ -1316,6 +2388,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@146"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp346095787#346095793#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#138"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp8614813312#1635"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095787.792769
 e346095794.376944
@@ -1329,6 +2404,9 @@ xc++
 xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@142"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp346095787#346095794#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#134"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp8614576256#1627"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppRunner.o0#
+
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofArduino.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095793.162204
@@ -1344,6 +2422,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@150"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp346095793#346095797#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#142"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp8611721664#1633"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofArduino.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofArduino.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofArduino.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095796.862521
 e346095798.186731
@@ -1357,6 +2438,9 @@ xc++
 xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@148"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp346095796#346095798#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#140"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp8615636416#1634"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o0#
+
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofBitmapFont.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofGraphics.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095797.839985
@@ -1372,6 +2456,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@146"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp346095797#346095800#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#138"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp8629673024#1630"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofGraphics.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofGraphics.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofImage.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095798.186825
 e346095800.831677
@@ -1385,6 +2472,9 @@ xc++
 xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@143"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp346095798#346095800#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#135"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp8644729216#1624"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofImage.o0#
+
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofImage.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofMath.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095804.820535
@@ -1400,6 +2490,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@139"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp346095804#346095807#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#131"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp8616221248#1619"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofMath.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofMath.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofQtUtils.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095807.343682
 e346095809.219200
@@ -1413,6 +2506,9 @@ xc++
 xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@142"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp346095807#346095809#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#134"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp8615533408#1625"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofQtUtils.o0#
+
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofQtUtils.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofQtUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSerial.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095794.377033
@@ -1428,6 +2524,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@149"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp346095794#346095796#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#141"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp8629164800#1631"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSerial.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSerial.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/communication/ofSerial.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095803.213643
 e346095804.820314
@@ -1441,6 +2540,9 @@ xc++
 xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@146"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp346095803#346095804#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#138"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp8613752192#1633"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o0#
+
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundPlayer.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095804.518417
@@ -1456,6 +2558,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@146"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp346095804#346095806#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#138"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp8630759456#1633"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundStream.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofSoundStream.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTexture.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095800.831899
 e346095803.213426
@@ -1469,6 +2574,9 @@ xc++
 xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@145"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp346095800#346095803#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#137"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp8630645280#1628"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTexture.o0#
+
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTexture.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTexture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095800.992980
@@ -1484,6 +2592,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@150"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp346095800#346095804#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#142"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp8623624928#1638"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofTrueTypeFont.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofUtils.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095806.949067
 e346095809.947096
@@ -1497,6 +2608,9 @@ xc++
 xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@140"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp346095806#346095809#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#132"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp8630692352#1621"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofUtils.o0#
+
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofUtils.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/utils/ofUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095809.219420
@@ -1512,6 +2626,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@147"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp346095809#346095811#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#139"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp8634693952#1635"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoGrabber.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095809.947189
 e346095812.031927
@@ -1526,6 +2643,9 @@ xcom.apple.compilers.gcc.4_2
 oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
 lSLF07#2@146"Compile /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp346095809#346095812#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#138"/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp8613887424#1633"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O3 -isysroot /Developer/SDKs/MacOSX10.6.sdk -funroll-loops -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/openFrameworks.hmap -F/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/poco/include -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources/i386 -I/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o0#
 
+CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofVideoPlayer.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CLibtool /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a normal i386
 s346095812.032015
 e346095812.139323
@@ -1535,4 +2655,14 @@ x/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/
 xnormal
 xi386
 lSLF07#2@51"Libtool ../../lib/osx//openFrameworks.a normal i386346095812#346095812#0(0"0(0#0#0"8613344672#892"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/SDKs/MacOSX10.6.sdk -L/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/openFrameworks.LinkFileList -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework GLUT -framework OpenGL -framework QuickTime -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a0#
+
+CLibtool /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a normal i386
+s346108251.334769
+e346108251.529296
+r1
+xLibtool
+x/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a
+xnormal
+xi386
+lSLF07#2@51"Libtool ../../lib/osx//openFrameworks.a normal i386346108251#346108251#0(0"0(0#0#0"13229744819077228#856"    cd /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/SDKs/MacOSX10.6.sdk -L/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/openFrameworks.LinkFileList -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework GLUT -framework OpenGL -framework QuickTime -o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a0#
 
