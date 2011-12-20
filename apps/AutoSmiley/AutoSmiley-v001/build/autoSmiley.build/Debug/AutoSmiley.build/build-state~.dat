@@ -1,0 +1,71 @@
+TAutoSmiley
+v7
+r1
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/../../../libs/glut/lib/osx/GLUT.framework
+c000000004B799B5E00000000000000CC
+t1266260830
+s204
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin//AutoSmileyDebug.app
+t2
+s0
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin//AutoSmileyDebug.app/Contents/Info.plist
+t2
+s0
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin//AutoSmileyDebug.app/Contents/PkgInfo
+t2
+s0
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin/AutoSmileyDebug.app/Contents/Frameworks/GLUT.framework
+t2
+s0
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin/AutoSmileyDebug.app/Contents/Resources/MONACO.TTF
+t2
+s0
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin/AutoSmileyDebug.app/Contents/Resources/openFrameworks-Info.plist
+t2
+s0
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin/data/MONACO.TTF
+c000000004BA7C73E00000000000100A8
+t1269286718
+s65704
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/build/autoSmiley.build/Debug/AutoSmiley.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/openFrameworks-Info.plist
+c000000004B38B2B60000000000000277
+t1262006966
+s631
+
+NopenFrameworks-Info.plist
+c000000004B38B2B60000000000000277
+t1262006966
+s631
+
+CPBXCp bin/AutoSmileyDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+r0
+
+CPBXCp bin/AutoSmileyDebug.app/Contents/Resources/MONACO.TTF bin/data/MONACO.TTF
+r0
+
+CPBXCp bin/AutoSmileyDebug.app/Contents/Resources/openFrameworks-Info.plist openFrameworks-Info.plist
+r0
+
+CPhaseScriptExecution "Run Script" /users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/build/autoSmiley.build/Debug/AutoSmiley.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+r0
+
+CProcessInfoPlistFile /users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin//AutoSmileyDebug.app/Contents/Info.plist openFrameworks-Info.plist
+r0
+
+CTouch /users/stan/Documents/workspace/AutoSmiley-OF-0061/apps/AutoSmiley/AutoSmiley-v001/bin//AutoSmileyDebug.app
+r0
+

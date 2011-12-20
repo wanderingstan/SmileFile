@@ -1,0 +1,38 @@
+#pragma once
+
+#include "blink.h"
+#include "rimage.h"
+
+class ofxBlink {
+public:
+	static bool getBlink(ofImage img, float& amount) {
+		img.setImageType(OF_IMAGE_GRAYSCALE);
+		unsigned char* cpixels = img.getPixels();
+		int n = (int) (img.width * img.height);
+		float* fpixels = new float[n];
+		for (int i = 0; i < n; i++)
+			fpixels[i] = (float) cpixels[i];
+
+		MPBlink blinkFinder;
+		VisualObject faces;
+		RImage<float> rimage(fpixels, img.width, img.height);
+		bool blinkFound = false;
+		amount = 0;
+		if(!blinkFinder.findBlinks(rimage, faces)) {
+			if (faces.size() == 1) {
+				FaceObject* face = static_cast<FaceObject*>(*(faces.begin()));
+				amount = face->activation;
+				blinkFound = true;
+			} else {
+				printf("can't find any faces!\n");
+			}
+		} else {
+			printf("can't find anything!\n");
+		}
+
+		delete [] fpixels;
+
+		return blinkFound;
+	}
+};
+
