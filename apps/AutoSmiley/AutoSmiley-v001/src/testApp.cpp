@@ -1,7 +1,8 @@
 #include "testApp.h"
 
-testApp::testApp(char* smileLogFile, char* smileShellCommand) {
+testApp::testApp(char* smileLogFile, int delayMicroseconds, char* smileShellCommand) {
 	this->smileLogFile = smileLogFile;
+	this->delayMicroseconds = delayMicroseconds;
 	this->smileShellCommand = smileShellCommand;
 }
 
@@ -44,32 +45,47 @@ std::string exec(char* cmd) {
 
 //--------------------------------------------------------------
 void testApp::doSmily() {
+
+	struct passwd *pw = getpwuid(getuid());	
+	const char *homedir = pw->pw_dir;
+
+	// make the directory if it's not there
+	std::string dir_command_result = exec("mkdir -p ~/smilefile");
+	
+	// C/C++ sucks hairy balls
+	this->smileLogFile = new char[strlen(homedir)+strlen("/smilefile/smilelog.csv")+2];
+	sprintf(this->smileLogFile,"%s%s",homedir,"/smilefile/smilelog.csv");
+	
+	// save our smiling picture
+	img.setFromPixels(vision.color.getPixels(), vision.color.width, vision.color.height, OF_IMAGE_COLOR);
+	img.saveImage("/tmp/latest-smile.jpg"); // this will get renamed in our script
 	
 	time_t rawtime;
 	struct tm * timeinfo;
 	time ( &rawtime );
 	timeinfo = localtime ( &rawtime );
-
-	if (this->smileLogFile) {
-
-		// write to log file
-		FILE * pFile;
-		pFile = fopen (this->smileLogFile,"a");
-		if (!pFile) {
-			fprintf(stderr,"Could not open log file.\n");
-			return;
-		}
-		fprintf (pFile, "%d\t%s", (int) time (NULL), asctime (timeinfo) );
-
-		if (this->smileShellCommand) {
-			// execute command
-			std::string command_result = exec(this->smileShellCommand);
-			fprintf (pFile, ">%s", (char*) command_result.c_str());
-		}
-		fprintf(pFile, "\n");
-		
-		fclose(pFile);
+	char timebuffer [20];
+	
+	// write to log file
+	FILE * pFile;
+	pFile = fopen (this->smileLogFile ,"a");
+	if (!pFile) {
+		fprintf(stderr,"Could not open log file.\n");
+		return;
 	}
+	// output timestamp
+	strftime(timebuffer, 20, "%Y-%m-%dT%H:%M:%S", timeinfo);
+	fprintf (pFile, "%d\t%s", (int) time (NULL), timebuffer );
+	
+	// output results of shell command
+	if (this->smileShellCommand) {
+		// execute command
+		std::string command_result = exec(this->smileShellCommand);
+		fprintf (pFile, "%s", (char*) command_result.c_str());
+	}
+	fprintf(pFile, "\n");
+	fclose(pFile);
+	
 	
 	/*
 	//from http://74.125.47.132/search?q=cache:OtbdKJ8MQToJ:www.realsoftware.com/listarchives/realbasic-nug/2001-11/msg01823.html+CGKeyCode+shift&cd=2&hl=en&ct=clnk&gl=us&client=safari
@@ -121,36 +137,34 @@ void testApp::update(){
 	smoothPct *= 0.8;
 	smoothPct += MAX(0, smilePct) * 0.2;
 	
-	if( ofGetElapsedTimef() - lastTime > 2.0 ){
-		
+	if( ofGetElapsedTimef() - lastTime > 3.0 ){
 		if( smoothPct > 0.50 ){
 			doSmily();
+			
 			lastTime = ofGetElapsedTimef();
 		}
-							
 	}
-	
+	// SLEEP! Important to avoid taking too much of processor
+	usleep(this->delayMicroseconds); // sleep for 500 milliseconds
 }
 
 //--------------------------------------------------------------
 void testApp::draw() {
-
 	ofSetColor(0xffffff);
     vision.color.draw(0,0);
 	
 	ofDrawBitmapString("smile        = " + ofToString(smilePct, 2), 20, 20);
 	ofDrawBitmapString("smile smooth = " + ofToString(smoothPct, 2), 20, 36);
+	ofDrawBitmapString("delay        = " + ofToString(this->delayMicroseconds, 0), 20, 52);
 	
+	// if smile was detected in last second, display our notification
 	if( ofGetElapsedTimef() - lastTime < 1.0 ){
 		ofSetColor(255, 255, 255, 100);
 		ttf.drawString(":)", -50 + img.width/2, 30 + img.height/2);
 	}
-
 	float alpha = ofMap(  ofGetElapsedTimef() - lastTime, 1.0, 1.3, 255, 0.0, true);
-	
 	ofSetColor(255, 255, 255, alpha);
 	ttfSmall.drawString("saving a smile :)", 10, 270);
-
 }
 
 

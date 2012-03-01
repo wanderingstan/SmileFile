@@ -4,8 +4,8 @@
 
 //========================================================================
 int main(int argc, char* argv[]){
-	
 	char* smileLogFile;
+	int delayMicroseconds;
 	char* smileShellCommand;
 	if (argc>=2) {
 		smileLogFile = argv[1];
@@ -14,7 +14,13 @@ int main(int argc, char* argv[]){
 		smileLogFile = NULL;
 	}
 	if (argc>=3) {
-		smileShellCommand = argv[2];
+		delayMicroseconds = atoi(argv[2]);
+	}
+	else {
+		delayMicroseconds = 0;
+	}
+	if (argc>=4) {
+		smileShellCommand = argv[3];
 	}
 	else {
 		smileShellCommand = NULL;
@@ -25,7 +31,5 @@ int main(int argc, char* argv[]){
 	// this kicks off the running of my app
 	// can be OF_WINDOW or OF_FULLSCREEN
 	// pass in width and height too:
-
-	ofRunApp(new testApp(smileLogFile, smileShellCommand));
-
+	ofRunApp(new testApp(smileLogFile, delayMicroseconds, smileShellCommand));
 }

@@ -1,7 +1,7 @@
 TopenFrameworks
 v7
 r0
-t346108251.529357
+t352283766.832083
 cCheck dependencies
 cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 cCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
@@ -187,8 +187,8 @@ t1264560052
 s139584
 
 N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c000000004DD5EC60000000000051BA20
-t1305865312
+c000000004EE0342D000000000051BA20
+t1323316269
 s5356064
 
 N/System/Library/Frameworks/Carbon.framework/Carbon
@@ -217,13 +217,13 @@ t1264560922
 s1714464
 
 N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c000000004DF9F72F0000000000043360
-t1308227375
+c000000004EDEBFD00000000000043360
+t1323220944
 s275296
 
 N/System/Library/Frameworks/QuickTime.framework/QuickTime
-c000000004E5295740000000000785970
-t1314035060
+c000000004F0F8C540000000000785970
+t1326419028
 s7887216
 
 N/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/fmodex/include/fmod.h
@@ -1963,7 +1963,7 @@ i<sstream>
 i<CoreAudio/AudioHardware.h>
 
 N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a
-t1324415451
+t1330121019
 s4595664
 
 N/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o
@@ -2372,7 +2372,7 @@ i<string>
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies346108251#346108251#0(0"0(0#1#0"29836824280170608#0"0#
+lSLF07#2@18"Check dependencies352283766#352283766#0(0"0(0#1#0"8617910848#0"0#
 
 CCompileC build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s346095787.791590
@@ -2657,12 +2657,12 @@ xi386
 lSLF07#2@51"Libtool ../../lib/osx//openFrameworks.a normal i386346095812#346095812#0(0"0(0#0#0"8613344672#892"    cd /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/SDKs/MacOSX10.6.sdk -L/users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/openFrameworks.LinkFileList -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework GLUT -framework OpenGL -framework QuickTime -o /users/stan/Documents/workspace/AutoSmiley-OF-0061/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a0#
 
 CLibtool /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a normal i386
-s346108251.334769
-e346108251.529296
+s351813818.099521
+e351813819.372058
 r1
 xLibtool
 x/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a
 xnormal
 xi386
-lSLF07#2@51"Libtool ../../lib/osx//openFrameworks.a normal i386346108251#346108251#0(0"0(0#0#0"13229744819077228#856"    cd /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/SDKs/MacOSX10.6.sdk -L/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/openFrameworks.LinkFileList -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework GLUT -framework OpenGL -framework QuickTime -o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a0#
+lSLF07#2@51"Libtool ../../lib/osx//openFrameworks.a normal i386351813818#351813819#0(0"0(0#0#0"13229744819077228#856"    cd /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/SDKs/MacOSX10.6.sdk -L/users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx -filelist /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/build/openFrameworksLib.build/Release/openFrameworks.build/Objects-normal/i386/openFrameworks.LinkFileList -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework GLUT -framework OpenGL -framework QuickTime -o /users/stan/Documents/workspace/SmileFile/libs/openFrameworksCompiled/project/osx/../../lib/osx//openFrameworks.a0#
 

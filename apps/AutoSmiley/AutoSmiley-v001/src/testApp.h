@@ -7,15 +7,17 @@
 #include <time.h>
 #include <string>
 #include <iostream>
+#include <pwd.h>
 
 #include "ofMain.h"
 #include "computerVision.h"
 #include "ofxSmile.h"
+#include "sys/stat.h" 
 
 class testApp : public ofSimpleApp{
 	
 	public:
-		testApp(char* smileLogFile, char* smileShellCommand);
+		testApp(char* smileLogFile, int delayMicroseconds, char* smileShellCommand);
 		
 		void setup();
 		void update();
@@ -28,10 +30,10 @@ class testApp : public ofSimpleApp{
 		void mouseDragged(int x, int y, int button);
 		void mousePressed(int x, int y, int button);
 		void mouseReleased();
-	void doSmily();
-	
+		void doSmily();
+		
 		ofImage img;
-        computerVision vision;
+		computerVision vision;
 		
 		float smilePct;
 		float lastTime;
@@ -39,8 +41,10 @@ class testApp : public ofSimpleApp{
 		
 		ofTrueTypeFont ttf;
 		ofTrueTypeFont ttfSmall;
-	
+
+		char* smileDirectory;
 		char* smileLogFile;
+		int delayMicroseconds;
 		char* smileShellCommand;
 };
 
