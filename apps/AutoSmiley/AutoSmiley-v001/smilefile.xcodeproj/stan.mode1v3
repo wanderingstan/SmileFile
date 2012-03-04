@@ -284,7 +284,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 94}, {308, 660}}</string>
+							<string>{{0, 68}, {308, 660}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -333,7 +333,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>F63F3CFE14FFDEFE00265196</string>
+										<string>F63F3D2215009C7F00265196</string>
 										<key>history</key>
 										<array>
 											<string>F624D83D14A16AD800F49C23</string>
@@ -345,12 +345,14 @@
 											<string>F63B931414A294A4003B8091</string>
 											<string>F6FC442914F84280003E217E</string>
 											<string>F63F3C0C14FF1B0B00265196</string>
-											<string>F63F3C0D14FF1B0B00265196</string>
-											<string>F63F3CC914FFD70B00265196</string>
-											<string>F63F3CFA14FFDEFE00265196</string>
-											<string>F63F3CFB14FFDEFE00265196</string>
-											<string>F63F3CFC14FFDEFE00265196</string>
-											<string>F63F3CFD14FFDEFE00265196</string>
+											<string>F63F3D0914FFE0D500265196</string>
+											<string>F63F3D0A14FFE0D500265196</string>
+											<string>F63F3D0C14FFE0D500265196</string>
+											<string>F63F3D1414FFFF3200265196</string>
+											<string>F63F3D1514FFFF3200265196</string>
+											<string>F63F3D1915009B3E00265196</string>
+											<string>F63F3D1A15009B3E00265196</string>
+											<string>F63F3D1B15009B3E00265196</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -548,7 +550,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>F63F3CF914FFDEA900265196</string>
 		<string>F63F3C9714FF716200265196</string>
 		<string>F63F3BE714FF156000265196</string>
 		<string>F63F3BE814FF156000265196</string>

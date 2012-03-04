@@ -2,8 +2,8 @@
 
 testApp::testApp(char* smileLogFile, int delayMicroseconds, char* smileShellCommand) {
 	this->smileLogFile = smileLogFile;
-	this->delayMicroseconds = delayMicroseconds;
-	this->smileShellCommand = smileShellCommand;
+	this->delayMicroseconds = 250000; // delayMicroseconds;
+	this->smileShellCommand = "./smile-save.sh"; //smileShellCommand;
 }
 
 //--------------------------------------------------------------
@@ -22,10 +22,10 @@ void testApp::setup() {
 
 	img.allocate(320, 240, OF_IMAGE_GRAYSCALE);
 	
-	lastTime = ofGetElapsedTimef()- 10.0;
-		
+	lastTime = ofGetElapsedTimef()- 10.0; // initialize with value more than 3 seconds ago
 	smilePct = 0.0;
 	smoothPct = 0.0;
+	totalSmiles = 0;
 }
 
 //--------------------------------------------------------------
@@ -45,7 +45,8 @@ std::string exec(char* cmd) {
 
 //--------------------------------------------------------------
 void testApp::doSmily() {
-
+	this->totalSmiles++;
+	
 	struct passwd *pw = getpwuid(getuid());	
 	const char *homedir = pw->pw_dir;
 
@@ -137,14 +138,14 @@ void testApp::update(){
 	smoothPct *= 0.8;
 	smoothPct += MAX(0, smilePct) * 0.2;
 	
+	// minimum 3 seconds between smiles
 	if( ofGetElapsedTimef() - lastTime > 3.0 ){
 		if( smoothPct > 0.50 ){
 			doSmily();
-			
 			lastTime = ofGetElapsedTimef();
 		}
 	}
-	// SLEEP! Important to avoid taking too much of processor
+	// sleep! Important to avoid taking too much of processor
 	usleep(this->delayMicroseconds); // sleep for 500 milliseconds
 }
 
@@ -153,9 +154,9 @@ void testApp::draw() {
 	ofSetColor(0xffffff);
     vision.color.draw(0,0);
 	
-	ofDrawBitmapString("smile        = " + ofToString(smilePct, 2), 20, 20);
-	ofDrawBitmapString("smile smooth = " + ofToString(smoothPct, 2), 20, 36);
-	ofDrawBitmapString("delay        = " + ofToString(this->delayMicroseconds, 0), 20, 52);
+	ofDrawBitmapString("smile %  = " + ofToString(smilePct, 2), 20, 20);
+	ofDrawBitmapString("smooth % = " + ofToString(smoothPct, 2), 20, 36);
+	ofDrawBitmapString("smiles   = " + ofToString(this->totalSmiles, 0), 20, 52);
 	
 	// if smile was detected in last second, display our notification
 	if( ofGetElapsedTimef() - lastTime < 1.0 ){
@@ -173,7 +174,6 @@ void testApp::keyPressed(int key) {
     if(key == ' '){
         vision.togglePlayback();
     }
-
     //if you need to adjust the camera properties
     if(key == 's'){
         vision.camera.videoSettings();
